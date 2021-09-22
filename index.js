@@ -1,3 +1,5 @@
+//JS 1 LESSON 6
+
 class Animal{
 
     constructor(name, legs){
